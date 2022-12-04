@@ -3,5 +3,5 @@
 
 let us talk about github. it is an awesome development tool which can allow you to control a different versions
 
-##Author
+## Author
 Bolaji
